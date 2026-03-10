@@ -1,0 +1,11 @@
+Chapter 3 — Delivery and Traceability
+
+Review feedback came in quickly. Minor naming suggestions and one edge-case bug were identified. Ai addressed them in small follow-up commits.
+
+Once approvals were in place, the branch was merged into the main branch using squash merge to keep history concise.
+
+The release manager later tagged the version for deployment. Because of clean commits and linked task IDs, every change was traceable—from requirement to production.
+
+At the end of the day, Ai updated the project board and closed the task.
+
+Another feature shipped—efficiently and transparently.
